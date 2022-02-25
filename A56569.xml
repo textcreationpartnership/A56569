@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral upon the death of Her Grace the Dutchess of Ormond</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56569</idno>
+            <idno type="STC">Wing P678</idno>
+            <idno type="STC">ESTC R18349</idno>
+            <idno type="EEBO-CITATION">13044910</idno>
+            <idno type="OCLC">ocm 13044910</idno>
+            <idno type="VID">96904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 748:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral upon the death of Her Grace the Dutchess of Ormond</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by N. Thompson ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, Elizabeth Butler, --  Duchess of, d. 1684 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:96904:1" rendition="simple:additions"/>
+            <head>A PASTORAL Upon the DEATH of HER GRACE THE Dutcheſs of Ormond.</head>
+            <q>
+               <l>Qua nihil majus, meliuſe Terris</l>
+               <l>Fata donavere, boni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Divi,</l>
+               <l>Nec dabunt: Quamvis redeant in Aurum</l>
+               <l>Tempora priſcum.</l>
+               <bibl>
+                  <hi>Horat.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>MYRTILLO. ALEXIS.</hi>
+            </p>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>IF loaded Eye-lids, and a clouded Brow,</l>
+               <l>Croſs'd Arms, and riſing Sighs, great Sorrow ſhew;</l>
+               <l>And if one Friend may know anothers care,</l>
+               <l>Why theſe ſad Marks does my <hi>Alexis</hi> wear?</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>Alas,</hi> Myrtillo! <hi>caſt thy eyes around,</hi>
+               </l>
+               <l>
+                  <hi>And tell me, What like comfort's to be found?</hi>
+               </l>
+               <l>
+                  <hi>The Sun has not ſent forth one chearful Ray,</hi>
+               </l>
+               <l>
+                  <hi>But worn a Cloud of Mourning all the day.</hi>
+               </l>
+               <l>
+                  <hi>See how our drooping Flocks no Paſtures heed,</hi>
+               </l>
+               <l>
+                  <hi>But bleat about us, and neglect to feed!</hi>
+               </l>
+               <l>
+                  <hi>Let Nature look in all her Orders ſad;</hi>
+               </l>
+               <l>
+                  <hi>Nor Envy dare to ſhew it, if ſhe's glad;</hi>
+               </l>
+               <l>
+                  <hi>Since nothing, nothing now can Joy reſtore,</hi>
+               </l>
+               <l>
+                  <hi>For Fate has ſtruck, and</hi> PYRRHA <hi>is no more.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>PYRRHA! for whom our daily Vows we pay'd,</l>
+               <l>And beſt-lov'd Younglings on the Altar lay'd;</l>
+               <l>For whoſe long Well-fare, Life, and happy State,</l>
+               <l>All grateful Pray'rs on the good Gods did wait;</l>
+               <l>Whoſe Virtue Nymphs were taught to copy young,</l>
+               <l>For 'twas the Theme of ev'ry Shepherds Song:</l>
+               <l>Has Fate at laſt prevail'd! And is SHE gone!</l>
+               <l>O whither now ſhall many wretched run!</l>
+               <l>The Injur'd, for Redreſs; the Poor, for Aid;</l>
+               <l>Worth, for Reward; or Grief, to be allay'd:</l>
+               <l>Since Juſtice, Pity, Bounty, quits our Plains;</l>
+               <l>But Sorrow grows Eternal, and remains.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>As full-blown Flow'rs, that long have deck'd the ground,</hi>
+               </l>
+               <l>
+                  <hi>And with their Odours fill'd the Air around,</hi>
+               </l>
+               <l>
+                  <hi>Bend down their heads at laſt to Mother Earth,</hi>
+               </l>
+               <l>
+                  <hi>And fade away, though to a ſecond Birth;</hi>
+               </l>
+               <pb n="2" facs="tcp:96904:2"/>
+               <l>
+                  <hi>Or as tall Caedars, who (admir'd) have ſtood</hi>
+               </l>
+               <l>
+                  <hi>For many years the Glory of the Wood,</hi>
+               </l>
+               <l>
+                  <hi>Finding in time their ſacred Roots decay,</hi>
+               </l>
+               <l>
+                  <hi>Are by the next rude Tempeſt torn away:</hi>
+               </l>
+               <l>
+                  <hi>So flouriſh'd</hi> PYRRHA, <hi>and as high did riſe,</hi>
+               </l>
+               <l>
+                  <hi>Adorn'd the Earth, and ſeem'd to reach the Skies.</hi>
+               </l>
+               <l>
+                  <hi>Fair, without blemiſh; Lofty, without Pride:</hi>
+               </l>
+               <l>
+                  <hi>But, Oh! the Tempeſt roſe, and</hi> PYRRHA <hi>dy'd!</hi>
+               </l>
+               <l>
+                  <hi>Gone then's all Spring, now Winter's only ours;</hi>
+               </l>
+               <l>
+                  <hi>Sighs riſe like Storms, and Tears muſt fall like Show'rs.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>If full of Years and Honours PYRRHA fell,</l>
+               <l>Grief may with Swains of humbler Talents dwell,</l>
+               <l>While to a nobler Work our minds we raiſe,</l>
+               <l>Suſpend our Sorrows, and proclaim Her Praiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis</speaker>
+               <l>
+                  <hi>As round Heav'ns Throne whole Choirs of Angels throng,</hi>
+               </l>
+               <l>
+                  <hi>Yet all their Triumph's one Eternal Song:</hi>
+               </l>
+               <l>
+                  <hi>So here on Earth ſhould</hi> PYRRHA<hi>'s Praiſes laſt,</hi>
+               </l>
+               <l>
+                  <hi>Till Time's no more, and Natures works lie waſt.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>Then let us tune our Reeds; Thou firſt the Lay</l>
+               <l>Begin; Our Flocks ſhall liſten, and I'll play:</l>
+               <l>So up to PYRRHA'S Fame our Notes we'll raiſe,</l>
+               <l>Suſpend our Sorrows, and proclaim her Praiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>Mean time, ye boundleſs Winds, your Guſts forbear,</hi>
+               </l>
+               <l>
+                  <hi>And all ye Hills and Valleys round give ear;</hi>
+               </l>
+               <l>
+                  <hi>Keep back ye Rivers, and forbear to run,</hi>
+               </l>
+               <l>
+                  <hi>Till the great Tale of</hi> PYRRHA<hi>'s Fame be done:</hi>
+               </l>
+               <l>
+                  <hi>Then let each wind bear it where-e'r it blows,</hi>
+               </l>
+               <l>
+                  <hi>Catch it, ye Hills and Valleys, as it goes,</hi>
+               </l>
+               <l>
+                  <hi>With your aſſenting Ecchoes in the cloſe.</hi>
+               </l>
+               <l>
+                  <hi>Murmur it, Floods, as to your Seas ye creep,</hi>
+               </l>
+               <l>
+                  <hi>And with it add new Wonders to the Deep;</hi>
+               </l>
+               <l>
+                  <hi>For the Renown of</hi> PYRRHA<hi>'s Name ſhall laſt</hi>
+               </l>
+               <l>
+                  <hi>Till Time's no more, and Natures Works lie waſt.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>On then.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>—<hi>As Stars before the riſing day</hi>
+               </l>
+               <l>
+                  <hi>Seem in their Orbs to ſink, and dive away;</hi>
+               </l>
+               <l>
+                  <hi>So all the Nymphs upon our fertile Plains,</hi>
+               </l>
+               <l>
+                  <hi>Though proud and cruel to their ſighing Swains,</hi>
+               </l>
+               <l>
+                  <hi>When</hi> PYRRHA<hi>'s pow'rful Charms approachd, they fail'd,</hi>
+               </l>
+               <l>
+                  <hi>And any Satyr might have then prevail'd:</hi>
+               </l>
+               <l>
+                  <hi>So much in blooming Youth cou'd ſhe ſurprize,</hi>
+               </l>
+               <l>
+                  <hi>Sh'ad all the panting Hearts and wiſhing Eyes,</hi>
+               </l>
+               <l>
+                  <hi>Come then, ye Nymphs of</hi> Arcadia, <hi>draw near,</hi>
+               </l>
+               <l>
+                  <hi>Weep round her Earth, and all your Garlands tear;</hi>
+               </l>
+               <l>
+                  <hi>For</hi> PYRRHA<hi>'s Beauty once no Equal knew;</hi>
+               </l>
+               <l>
+                  <hi>But Fate has ſeiz'd</hi> Her <hi>now, and muſt have</hi> You.</l>
+            </sp>
+            <pb n="3" facs="tcp:96904:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>PYRRHA's bright Eyes enlightned every Grove;</l>
+               <l>And fir'd at laſt ALCANDER's Heart with Love;</l>
+               <l>The Nymph found Him a Tryumph worth Her Charms,</l>
+               <l>And She alone was fit to fill His Arms:</l>
+               <l>Many did either Conqueſt wiſh t'have made;</l>
+               <l>But only They each other could invade;</l>
+               <l>For in Her Form did Nature ſeem improv'd,</l>
+               <l>And He was fram'd to Love and be Belov'd:</l>
+               <l>Therefore Heav'n ſmil'd, and all the Stars look'd kind;</l>
+               <l>When <hi>Pyrrha</hi> and <hi>Alcander</hi>'s Hearts were joyn'd.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>Who has not heard of great</hi> Alcander<hi>'s Name,</hi>
+               </l>
+               <l>
+                  <hi>So long the Muſes Task, and Pride of Fame?</hi>
+               </l>
+               <l>Pan <hi>early choſe, and made him great in Pow'r,</hi>
+               </l>
+               <l>
+                  <hi>When the</hi> Wolves <hi>rag'd, and did our Flocks devour:</hi>
+               </l>
+               <l>
+                  <hi>He took the guard of the moleſted Plains;</hi>
+               </l>
+               <l>
+                  <hi>Saw our Lambs fed, and chear'd Us frighted Swains;</hi>
+               </l>
+               <l>
+                  <hi>Wak'd with us 'midſt dark Nights and pinching Colds,</hi>
+               </l>
+               <l>
+                  <hi>To drive the howling Monſters from our Folds:</hi>
+               </l>
+               <l>
+                  <hi>In all which time,</hi> PYRRHA, <hi>His charming Bride,</hi>
+               </l>
+               <l>
+                  <hi>Oft came, and watch'd as He did, by His ſide;</hi>
+               </l>
+               <l>
+                  <hi>Of his worst dangers ſtill her part would bear,</hi>
+               </l>
+               <l>
+                  <hi>And for all Joys She gave Him, ask'd but care.</hi>
+               </l>
+               <l>
+                  <hi>Now, ye poor Flocks, go bleat about, and ſtray;</hi>
+               </l>
+               <l>
+                  <hi>Ye Shepherds, cast your Scrips and Hooks away;</hi>
+               </l>
+               <l>
+                  <hi>Stretch'd on the ground, your fatal loſs bemoan,</hi>
+               </l>
+               <l>
+                  <hi>And call on</hi> PYRRHA<hi>'s Name at evr'y groan.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>Full Fifty happy years this matchleſs Pair</l>
+               <l>Liv'd in unſhaken Love; No Jealous care,</l>
+               <l>Or mean Diſtruſt, did once their Joys moleſt,</l>
+               <l>So in a Noble Off-ſpring were They bleſt,</l>
+               <l>Of Warlike Youths, worthy their Fathers Name,</l>
+               <l>And Daughters, ſpotleſs as their Mothers Fame:</l>
+               <l>Bold <hi>Celadon,</hi> the Darling of loud War,</l>
+               <l>And <hi>Strephon</hi> now, whoſe pious, ſhoulders bear</l>
+               <l>The burden of his aged Fathers care;</l>
+               <l>Young <hi>Damon,</hi> lovely as the Beams that play</l>
+               <l>about our Eaſt, and lead the corning Day;</l>
+               <l>Fair <hi>Phyllida,</hi> who was with <hi>Aegon</hi> wed,</l>
+               <l>And bleſt Him with a Faithful Fruitful Bed;</l>
+               <l>Generous <hi>Lyſca</hi> too, by Nature taught</l>
+               <l>To recommend the poor mans cauſe unſought.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis</speaker>
+               <l>
+                  <hi>All theſe the Off-ſpring were of</hi> PYRRHA<hi>'s Womb:</hi>
+               </l>
+               <l>
+                  <hi>Come then, ye Mothers, mourn around Her Tomb:</hi>
+               </l>
+               <l>
+                  <hi>In</hi> PYRRHA<hi>'s Name your Myſtick Rites perform,</hi>
+               </l>
+               <l>
+                  <hi>When to your Aid ye would</hi> Lucina <hi>charm,</hi>
+               </l>
+               <pb n="4" facs="tcp:96904:3" rendition="simple:additions"/>
+               <l>
+                  <hi>Either the lab'ring Matrons pangs to eaſe,</hi>
+               </l>
+               <l>
+                  <hi>Or bleſs the Barren Mourner with increaſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>Oh! kind <hi>Alexis,</hi> ſtill purſue thy Song,</l>
+               <l>How theſe fair Branches grew, or wither'd young.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>Brave</hi> Celadon <hi>through Fate untimely fail'd,</hi>
+               </l>
+               <l>
+                  <hi>And was by</hi> Pan <hi>and all his Train bewail'd;</hi>
+               </l>
+               <l>
+                  <hi>Some mourning Muſes ſung Him to His Tomb,</hi>
+               </l>
+               <l>
+                  <hi>Yet others felt more grief, and thence mere dumb.</hi>
+               </l>
+               <l>
+                  <hi>Young</hi> Damon <hi>faded in His Beauties Pride,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Phyllida <hi>no leſs lamented dy'd.</hi>
+               </l>
+               <l>
+                  <hi>But long may</hi> Strephon<hi>'s Life rejoyce the years</hi>
+               </l>
+               <l>
+                  <hi>Of good</hi> Alcander, <hi>and aſſiſt His Cares.</hi>
+               </l>
+               <l>
+                  <hi>Fulneſs of time, kind Heav'n, to</hi> Lyſca <hi>give,</hi>
+               </l>
+               <l>
+                  <hi>'Tis for your Honour, Gods, that She ſhould live;</hi>
+               </l>
+               <l>
+                  <hi>For She, the more of days you Her afford,</hi>
+               </l>
+               <l>
+                  <hi>By</hi> Her <hi>good Deeds will make</hi> You <hi>more ador'd;</hi>
+               </l>
+               <l>
+                  <hi>Since</hi> Lyſca <hi>was of pious</hi> PYRRHA <hi>born,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> PYRRHA<hi>'s Virtues</hi> Lyſca<hi>'s Heart adorn.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Myrtillo.</speaker>
+               <l>But what ſhall now give good <hi>Alcander</hi> joy?</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>
+                  <hi>The Gods, when Fate took</hi> Celadon <hi>away,</hi>
+               </l>
+               <l>
+                  <hi>Call'd</hi> Daphnis <hi>forth, th' Heroick Race to run,</hi>
+               </l>
+               <l>
+                  <hi>Which his great Parent had ſo well begun:</hi>
+               </l>
+               <l>
+                  <hi>From</hi> Celadon<hi>'s brave Loins young</hi> Daphnis <hi>came,</hi>
+               </l>
+               <l>
+                  <hi>Full of His Heat, and conſcious of His Fame,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Mind his Fathers Deeds did ſo imploy,</hi>
+               </l>
+               <l>
+                  <hi>He grew</hi> Alcander<hi>'s Hopes, and</hi> PYRRHA<hi>'s joy.</hi>
+               </l>
+               <l>PYRRHA <hi>lov'd</hi> Daphnis, <hi>and with pleaſure found</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Hero<hi>'s Virtues in the</hi> Youth <hi>abound.</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Daphnis <hi>languiſh'd,</hi> PYRRHA <hi>did provide</hi>
+               </l>
+               <l>
+                  <hi>The charming ſoft</hi> Aminta <hi>for His</hi> Bride:</l>
+               <l>Aminta! <hi>tender as the Lambs that play</hi>
+               </l>
+               <l>
+                  <hi>In Sunny morns, and Innocent as</hi> They;</l>
+               <l>
+                  <hi>Sweet as thoſe Ev'ning Airs that gently blow</hi>
+               </l>
+               <l>
+                  <hi>Where the rich fragrant Eaſtern Spices grow;</hi>
+               </l>
+               <l>
+                  <hi>Calm as our Groves in a fair Summers Night,</hi>
+               </l>
+               <l>
+                  <hi>And Lovely as the firſt-created Light.</hi>
+               </l>
+               <l>Daphnis <hi>was born,</hi> Amintas <hi>with Him joyn'd,</hi>
+               </l>
+               <l>
+                  <hi>To chaſe all ſorrows from</hi> Alcander<hi>'s mind;</hi>
+               </l>
+               <l>
+                  <hi>To add new Honours to His ſtore of Fame,</hi>
+               </l>
+               <l>
+                  <hi>And a long Race of</hi> Heroes <hi>to His Name:</hi>
+               </l>
+               <l>
+                  <hi>His Name, which ſhall, with</hi> PYRRHA<hi>'s Praiſes, laſt</hi>
+               </l>
+               <l>
+                  <hi>Till Time's no more, and Natures Works lie waſt.</hi>
+               </l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and Sold by <hi>N. Thompſon,</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
